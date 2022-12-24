@@ -1,0 +1,4 @@
+﻿  Person.cpp
+C:\Users\ataka\source\repos\Person\Person\Person.h(95,40): warning C4805: '==' : işlemde güvenli olmayan 'int' türü ve 'bool' türü karışımı
+C:\Users\ataka\source\repos\Person\Person\Person.cpp(5,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Person.vcxproj -> C:\Users\ataka\source\repos\Person\Debug\Person.exe
